@@ -1,0 +1,15 @@
+{
+    "name": "demo-assignment",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Marc Backes <hello@marc.dev>",
+    "license": "MIT",
+    "scripts": {
+        "dev": "nodemon index.js",
+        "test": "jest"
+    },
+    "devDependencies": {
+        "jest": "^27.3.1",
+        "nodemon": "^2.0.15"
+    }
+}
